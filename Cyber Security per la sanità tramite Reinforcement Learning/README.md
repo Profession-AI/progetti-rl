@@ -23,3 +23,5 @@ DeepGuard Inc., un'azienda leader nel settore della sicurezza informatica per le
 **Link all’ambiente di simulazione:** [](https://github.com/Limmen/gym-idsgame)<https://github.com/Limmen/gym-idsgame>
 
 Con questo progetto, GreenGuard Solutions mira a garantire la sicurezza dei dati sensibili dei pazienti e a mantenere l'integrità delle informazioni nel contesto sanitario, proteggendo le reti di computer da minacce informatiche sempre più avanzate e persistenti.
+
+# Modalità di consegna: notebook di Google Colab
